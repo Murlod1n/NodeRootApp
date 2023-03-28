@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NodeRootApp</string>
+    <string name="plus">+</string>
+    <string name="del">DEL</string>
+</resources>
